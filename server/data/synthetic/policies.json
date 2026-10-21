@@ -1,0 +1,12 @@
+[
+  { "scope": "shop", "topic": "shipping", "text": "Orders are shipped within 2 working days after payment. Tracking number is shown in the order page once shipped." },
+  { "scope": "shop", "topic": "delivery", "text": "West Malaysia delivery usually takes 2-5 working days after shipping; East Malaysia 5-10 working days. Delivery times are estimates set by the courier." },
+  { "scope": "shop", "topic": "returns", "text": "Returns are accepted within 7 days of delivery for unworn items with tags. The buyer starts the return in the platform app." },
+  { "scope": "shop", "topic": "refunds", "text": "Refunds are decided by the shop owner after the returned item is received and checked, and are paid through the platform." },
+  { "scope": "shop", "topic": "exchange", "text": "Size exchange is possible within 7 days of delivery if stock is available. The buyer pays the return postage unless the shop sent the wrong item." },
+  { "scope": "shop", "topic": "item_problem", "text": "For damaged, wrong or missing items, ask the buyer for photos of the item and the parcel label and the order number. The owner decides the solution." },
+  { "scope": "shop", "topic": "cancellation", "text": "Orders can be cancelled in the platform app before they are shipped. After shipping, the buyer must request a return instead." },
+  { "scope": "shop", "topic": "payment", "text": "If payment was deducted but no order appears, ask the buyer for a screenshot of the payment and the time of payment; the owner checks with the platform." },
+  { "scope": "shop", "topic": "product_info", "text": "Size charts are in the product photos. Sizes run small; suggest one size up if between sizes." },
+  { "scope": "tiktok", "topic": "returns", "text": "TikTok Shop orders: returns are accepted within 7 days of delivery for unworn items with tags. The buyer starts the return in the TikTok Shop app." }
+]

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+# Real buyer data never goes in the repository (docs/09).
+server/data/real/
+# Eval reports: commit the ones you want to show by moving them to docs/eval/.
+server/eval-reports/
